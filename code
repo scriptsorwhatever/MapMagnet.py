@@ -40,7 +40,7 @@ def check_duplicate(connection, place_id):
 
 # Function to fetch and display data in alphabetical order
 def fetch_data_alphabetically(connection):
-    query = "SELECT name, address, phone FROM TMobile ORDER BY name ASC"
+    query = "SELECT name, address, phone FROM table_name ORDER BY name ASC"
     cursor = connection.cursor()
     cursor.execute(query)
     results = cursor.fetchall()
