@@ -20,7 +20,7 @@ MapMagnet is a Python-based tool designed to extract geographical data from Goog
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/yourusername/mapmagnet.git
+   git clone https://github.com/scriptsorwhatever/mapmagnet.git
    cd mapmagnet
    ```
 
