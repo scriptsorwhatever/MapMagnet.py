@@ -32,7 +32,7 @@ MapMagnet is a Python-based tool designed to extract geographical data from Goog
 3. **Database Setup**
    Create a table in your MariaDB/MySQL database with the following schema:
    ```sql
-   CREATE TABLE locations (
+   CREATE TABLE table_name (
      name VARCHAR(255),
      address VARCHAR(255),
      phone VARCHAR(100),
