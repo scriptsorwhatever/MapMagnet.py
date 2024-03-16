@@ -146,8 +146,8 @@ def main():
         results = search_google_maps(api_key, keyword, city)
 
         # Insert data into MariaDB
-        for business in results:
-            name, address, phone, place_id = business
+        for database_name in results:
+            name, address, phone, place_id = database_name
 
             # Check for duplicate entry based on place_id
             if not check_duplicate(connection, place_id):
