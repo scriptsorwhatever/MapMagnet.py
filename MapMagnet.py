@@ -131,7 +131,7 @@ def main():
     database = "database_name"  # Replace with your database name
 
     # Connect to MariaDB
-    connection = create_server_connection(host, user, password, database)
+    connection = create_server_connection(host, user, password, database_name)
 
     # Google API Key
     api_key = "YOUR API KEY HERE"  # Replace with your Google Maps API Key
