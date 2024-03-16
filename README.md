@@ -1,4 +1,3 @@
-
 # MapMagnet
 
 ## Description
@@ -46,16 +45,6 @@ Update the script with your database credentials, table name, and Google Maps AP
 
 ## Usage
 Run the script and follow the prompts to enter the city and keywords for your search query. The script will then fetch and store the data in your database.
-
-## Contributing
-Contributions to MapMagnet are welcome! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add some feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Create a new Pull Request.
 
 ## License
 MapMagnet is released under the MIT License. See the LICENSE file for more details.
