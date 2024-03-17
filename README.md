@@ -1,5 +1,24 @@
 # MapMagnet
 
+_____                                                                                                                _____ 
+( ___ )--------------------------------------------------------------------------------------------------------------( ___ )
+ |   |                                                                                                                |   | 
+ |   | ooo        ooooo                           ooo        ooooo                                                .   |   | 
+ |   | `88.       .888'                           `88.       .888'                                              .o8   |   | 
+ |   |  888b     d'888   .oooo.   oo.ooooo.        888b     d'888   .oooo.    .oooooooo ooo. .oo.    .ooooo.  .o888oo |   | 
+ |   |  8 Y88. .P  888  `P  )88b   888' `88b       8 Y88. .P  888  `P  )88b  888' `88b  `888P"Y88b  d88' `88b   888   |   | 
+ |   |  8  `888'   888   .oP"888   888   888       8  `888'   888   .oP"888  888   888   888   888  888ooo888   888   |   | 
+ |   |  8    Y     888  d8(  888   888   888       8    Y     888  d8(  888  `88bod8P'   888   888  888    .o   888 . |   | 
+ |   | o8o        o888o `Y888""8o  888bod8P'      o8o        o888o `Y888""8o `8oooooo.  o888o o888o `Y8bod8P'   "888" |   | 
+ |   |                             888                                       d"     YD                                |   | 
+ |   |                            o888o                                      "Y88888P'                                |   | 
+ |   |                                                                                                                |   | 
+ |   |                                                                                                                |   |
+ |   |                                                                                                                |   |
+ |   |                                                                                                                |   |
+ |___| Coded by: github.com/scriptsorwhatever                                                                         |___| 
+(_____)--------------------------------------------------------------------------------------------------------------(_____) 
+
 ## Description
 MapMagnet is a Python-based tool designed to extract geographical data from Google Maps and store it in a MariaDB database or a text file. It efficiently collects data like names, addresses, and phone numbers for specified locations and ensures no duplicate entries are saved in the database or text file.
 
