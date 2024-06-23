@@ -63,6 +63,3 @@ file_path = output.txt  # Used if type is textfile
 
 ## Usage
 Run the script and follow the prompts to enter the city and keywords for your search query. Depending on the configuration, the script will then fetch and store the data in your database or a specified text file.
-
-## License
-MapMagnet is released under the MIT License. See the LICENSE file for more details.
